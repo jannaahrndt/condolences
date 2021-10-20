@@ -1,2 +1,2 @@
 # condolences
-this is a text generator that produces condolences
+This is a website that generates condolences based on Hallmark cards and republican speeches about covid-19.
